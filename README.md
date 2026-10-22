@@ -104,7 +104,6 @@ Prices plus VAT. Details: [castreon.net](https://castreon.net)
 
 - Documentation: [castreon.net/docs](https://castreon.net/docs)
 - E-mail: contact@castreon.net
-- Bugs and questions can also be opened as [issues](../../issues) in this repository.
 
 ---
 
