@@ -66,9 +66,19 @@ Castreon is a self-hosted live TV and streaming headend for Linux. It takes a ch
 |---|---|
 | ![Channels](docs/screenshots/channels.png) | ![ABR](docs/screenshots/channel-abr.png) |
 
-| Automatic failover |
+| Automatic failover | Library for 24/7 channels |
+|---|---|
+| ![Failover](docs/screenshots/channel-failover.png) | ![Library](docs/screenshots/library.png) |
+
+| Weekly schedule | MP4 clips and recordings |
+|---|---|
+| ![Schedule](docs/screenshots/schedule.png) | ![Clips](docs/screenshots/clips.png) |
+
+| Monitoring wall |
 |---|
-| ![Failover](docs/screenshots/channel-failover.png) |
+| ![Monitoring wall](docs/screenshots/wall.png) |
+
+Screenshots from a Castreon demo server. Films: Big Buck Bunny and Tears of Steel © Blender Foundation, CC BY 3.0.
 
 ## Requirements
 
@@ -98,7 +108,7 @@ Monthly license per server, cancel anytime:
 | Pro | €49 / month | 150 channels, GPU transcoding, ABR, CDN push, playout, archive |
 | Enterprise | €99 / month | Unlimited channels, SCTE-35, WebRTC, DRM, multi-CDN, priority support |
 
-Prices plus VAT. Details: [castreon.net](https://castreon.net)
+Prices plus VAT. Details and FAQ: [castreon.net/pricing](https://castreon.net/pricing)
 
 ## Support
 
